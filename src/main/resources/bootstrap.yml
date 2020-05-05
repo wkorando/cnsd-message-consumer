@@ -6,3 +6,4 @@ spring:
         namespace: default
         sources:
          - name: binding-think-it-through
+         - name: event-streams-connecton-info
