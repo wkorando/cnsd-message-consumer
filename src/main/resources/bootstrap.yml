@@ -1,0 +1,8 @@
+spring:
+  cloud:
+    kubernetes:
+      config:
+        name: default
+        namespace: default
+        sources:
+         - name: binding-think-it-through
